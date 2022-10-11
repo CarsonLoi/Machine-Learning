@@ -18,9 +18,15 @@ http://giantpandacv.com/academic/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E5%8F%8A%E
 
 Bootstrap:
 https://ithelp.ithome.com.tw/articles/10240824
+<table> - https://codesandbox.io/s/vj7r8qrmy7
+<switch tables> - https://codesandbox.io/s/react-bootstrap-table2-hidden-column-cant-clear-filter-znphl
+
 
 CSS - styling for the elements that not in specific id
 https://stackoverflow.com/questions/20328601/css-use-not-id-with-class
 
 React:
 https://github.com/btWin9527/atguigu_react/tree/master/react_basic
+
+TYM_Project:
+https://codesandbox.io/s/react-project-psp3f8?file=/src/pages/Charts.js
